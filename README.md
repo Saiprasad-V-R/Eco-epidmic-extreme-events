@@ -1,4 +1,4 @@
-# Eco-epidemic model with Sinusoidal forcing
+# Eco-epidemic model with Seasonal transmission
 
 This project contains a Fortran program that simulates a predator–prey system with sinusoidal forcing and computes two outputs:
 
